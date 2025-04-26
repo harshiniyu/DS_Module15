@@ -1,4 +1,4 @@
-# Ex15 Largest Element in BST
+# Ex3E Largest Element in BST
 ## DATE:22/03/2025
 ## AIM:
 To Write a c program to find the largest value in a Binary Search Tree.
